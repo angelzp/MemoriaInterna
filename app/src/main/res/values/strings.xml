@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memoria Interna</string>
+    <string name="action_settings">Settings</string>
+    <string name="mjs1">Escribe un texto</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+
+</resources>
